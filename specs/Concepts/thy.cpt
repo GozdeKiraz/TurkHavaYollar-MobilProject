@@ -1,0 +1,117 @@
+Created by testinium on 11.03.2020
+
+This is a concept file with following syntax for each concept.
+# Bilet al butonuna tıklanır
+* "14" saniye bekle
+* "btn_biletAl" li elementi bul ve varsa tıkla
+
+# Tek yön uçuş seçilir
+* "btn_tekYon" li elementi bul ve varsa tıkla
+
+# Yön bilgisi seçilir
+* "select_varis" li elementi bul ve varsa tıkla
+* "btn_giris_konum_bilgisini_reddet" li elementi bul ve varsa tıkla
+* "search_varis" li elementi bul ve varsa tıkla
+* "search_varis" li elementi bul ve "ESB" değerini yaz
+* "btn_ESB" li elementi bul ve varsa tıkla
+
+# Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+*"btn_tarih_bilgisi" li elementi bul ve varsa tıkla
+*"btn_gun_secimi" li elementi bul ve varsa tıkla
+
+# Tamam butonuna tıklanır
+*"btn_tamam" li elementi bul ve varsa tıkla
+
+# Yetişkin bilgisi 2 olarak seçilir
+*"btn_yetiskin_sayı_arttır" li elementi bul ve varsa tıkla
+
+# Uçuş ara butonuna tıklanır.
+*"btn_ucus_ara" li elementi bul ve varsa tıkla
+
+# Uçuşların listelendiği kontrol edilir
+* Uçuşların listesi kontrol edilir ve "ucus_turu" seçilir
+
+# Ekonomik uçuş seçilir
+* "btn_ekonomik_ucus" li elementi bul ve varsa tıkla
+
+# Devam butonuna tıklanır
+* "btn_ucusSayfasi_devamEt" li elementi bul ve varsa tıkla
+
+# Yolcu ekle alanı doldurulur ve devam butonuna tıklanır.
+* "btn_yeni_yolcu1_ekle" li elementi bul ve varsa tıkla
+* "text_ad" li elemente ad yaz
+* "text_soyad" li elemente ad yaz
+* "select_cinsiyet_kadın" li elementi bul ve varsa tıkla
+* "dogum_tarihi" li elementi bul ve varsa tıkla
+* "dogum_tarihi_gün" li elementi bul ve varsa tıkla
+* "dogum_tarihi_ay" li elementi bul ve varsa tıkla
+//* "dogum_tarihi_yıl" li elementi bul ve varsa tıkla
+* "dogum_tarihi_onay" li elementi bul ve varsa tıkla
+*  "text_email" li elemente email yaz
+* Swipe Et
+* "select_uyruk" li elementi bul ve varsa tıkla
+* "text_tc" li elementi bul ve "10435745728" değerini yaz
+* "select_yolcu_detay" li elementi bul ve varsa tıkla
+* "btn_yolcu1_ekle" li elementi bul ve varsa tıkla
+*  "yolcu2" li elementi bul ve varsa tıkla
+* "btn_yeni_yolcu2_ekle" li elementi bul ve varsa tıkla
+* "text_ad2" li elementi bul ve "Ayşe" değerini yaz
+* "text_soyad2" li elementi bul ve "Yılmaz" değerini yaz
+* "select_cinsiyet_kadın2" li elementi bul ve varsa tıkla
+* "dogum_tarihi2" li elementi bul ve varsa tıkla
+* "dogum_tarihi_gün2" li elementi bul ve varsa tıkla
+* "dogum_tarihi_ay2" li elementi bul ve varsa tıkla
+//* "dogum_tarihi_yıl2" li elementi bul ve varsa tıkla
+* "dogum_tarihi_onay2" li elementi bul ve varsa tıkla
+* "text_email2" li elementi bul ve "yılmaz@gmail.com" değerini yaz
+* Swipe Et
+* "select_uyruk2" li elementi bul ve varsa tıkla
+* "text_tc2" li elementi bul ve "37588052312" değerini yaz
+* "select_yolcu_detay2" li elementi bul ve varsa tıkla
+* "btn_yolcu2_ekle" li elementi bul ve varsa tıkla
+
+# Devam2 butonuna tıklanır
+*  "btn_yolcular_devam_et" li elementi bul ve varsa tıkla
+
+# Cep telefonu bilgisi girilir
+* "text_iletişim_sayfası_email" li elementi bul ve "ay@gmail.com" değerini yaz
+* "select_ulke" li elementi bul ve varsa tıkla
+* "select_ulke_kod" li elementi bul ve varsa tıkla
+* "text_iletişim_sayfası_telefon_numarası" li elemente cep telefonu yaz
+
+# Devam3 butonuna tıklanır
+* "btn_iletişim_sayfası_devam" li elementi bul ve varsa tıkla
+* "btn_iletişim_sayfası_popUp" li elementi bul ve varsa tıkla
+
+# Koltuk Seçimi ile devam et butonuna tıklanır
+* "btn_koltuk_secimi" li elementi bul ve varsa tıkla
+* "btn_koltuk_secimi_popUp" li elementi bul ve varsa tıkla
+* "btn_koltuk_secimi_devam" li elementi bul ve varsa tıkla
+* "btn_koltuk_secimi_popUp2" li elementi bul ve varsa tıkla
+
+# Uçuş seçilir ve isim alanına tıklanır
+* "btn_yolcu_koltuk_secimi" li elementi bul ve varsa tıkla
+* "btn_koltuk_secimi_sayfa_yolcu1" li elementi bul ve varsa tıkla
+* "btn_yolcu_koltuk_devam" li elementi bul ve varsa tıkla
+
+# Rasgele boş koltuk seçilir
+* "btn_bos_koltuk" koltuk seçilir
+* "btn__koltuk1_secimi_onayla" li elementi bul ve varsa tıkla
+* "btn__koltuk2_secimi_onayla" li elementi bul ve varsa tıkla
+* "btn__koltuk_secimi_devam_et" li elementi bul ve varsa tıkla
+* "btn__koltuk_secimi_devam_et2" li elementi bul ve varsa tıkla
+
+# Devam4 butonuna tıklanır
+* "btn_devam_et" li elementi bul ve varsa tıkla
+* "btn_devam_et_popUp" li elementi bul ve varsa tıkla
+* "btn_devam_et_anasayfa" li elementi bul ve varsa tıkla
+
+# Kredi kartı ile öde butonuna tıklanır
+* "btn_kredi_kartı_öde" li elementi bul ve varsa tıkla
+
+# Kart bilgisi alanları doldurulur
+* "text_kart_numarası" li elementi bul ve "1111111" değerini yaz
+* "text_kart_son_kullanma_tarihi" li elementi bul ve varsa tıkla
+* "btn_kart_son_kullanma_tarihi_onayla" li elementi bul ve varsa tıkla
+* "text_kart_cvc_ekle" li elementi bul ve "112" değerini yaz
+
